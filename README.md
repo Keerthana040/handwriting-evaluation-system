@@ -35,7 +35,8 @@ This modular design ensures independent development, testing, and scaling.
 4. **Result Processing** → Extracted text returned to frontend for display.
 5. **Similarity Analysis (Optional)** → Text checked against samples for patterns.
 
-<img width="1049" height="560" alt="image" src="https://github.com/user-attachments/assets/a8d6dff4-d788-486c-bbb7-66bdddabd030" />
+<img width="1049" height="560" alt="Screenshot 2025-09-22 164446" src="https://github.com/user-attachments/assets/7b5efb1e-e53f-46b1-9afd-13e8a6c738ab" />
+
 
 ## Integration Points
 
